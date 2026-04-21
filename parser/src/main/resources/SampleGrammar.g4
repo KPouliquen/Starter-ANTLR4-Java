@@ -1,0 +1,2 @@
+grammar SampleGrammar;
+programm: EOF;
